@@ -1,10 +1,10 @@
 # Student Performance Analytics System
 
 ## 1. Project Title & Student Details
-* **Project Title**: Student Performance Analytics System[cite: 1]
-* **Student Name**: [Insert Your Full Name Here][cite: 3]
-* **Course**: Python with AI - EWB Courses[cite: 1]
-* **Submission Date**: October 2026[cite: 1]
+* **Project Title**: Student Performance Analytics System
+* **Student Name**: Chetan , Delhi
+* **Course**: Python with AI - EWB Courses
+* **Submission Date**: October 2026
 
 ---
 
@@ -59,7 +59,7 @@ The project successfully processes student records and outputs clear analytical 
 
 ## 8. Challenges & Learning
 * **Challenges Faced**: Resolving file path errors (`FileNotFoundError`) and column key mismatches (`KeyError`)[cite: 2].
-* **Key Learnings**: Learned how to integrate Pandas with NumPy for structured data manipulation and conditional data filtering in Python[cite: 1, 4].
+* **Key Learnings**: Learned how to integrate Pandas with NumPy for structured data manipulation and conditional data filtering in Python[cite:1].
 
 ---
 
