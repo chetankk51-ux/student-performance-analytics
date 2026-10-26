@@ -64,4 +64,4 @@ The project successfully processes student records and outputs clear analytical 
 ---
 
 ## 9. GitHub Repository
-* **Repository Link**: `[Paste your GitHub Repository URL here once created]`
+* **Repository Link**: `[https://github.com/chetankk51-ux/student-performance-analytics/blob/main/README.md]`
